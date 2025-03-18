@@ -1,0 +1,20 @@
+[
+    {
+        "question": "The order of accuracy achieved by the Simpson's rule (3/8) is _______________________",
+        "qid": 1,
+        "option_a": "First order",
+        "option_b": "Second order",
+        "option_c": "Third order",
+        "option_d": "Fourth order",
+        "correct_option": "c"
+    },
+    {
+        "question": "The integration by Simpson's rule (3/8) is given by ______________",
+        "qid": 2,
+        "option_a": "$$ I = \\frac{3h}{8}[f(x_1) + 3f(x_2) + 3f(x_3) + f(x_4)] $$",
+        "option_b": "$$ I = \\frac{h}{8}[f(x_1) + f(x_2) + f(x_3) + f(x_4)] $$",
+        "option_c": "$$ I = \\[f(x_1) + 3f(x_2) + 3f(x_3) + f(x_4)] $$",
+        "option_d": "$$ I = I = \\frac{3h}{8}[f(x_1) - f(x_2) - f(x_3) - f(x_4)] $$",
+        "correct_option": "a"
+    }
+]
